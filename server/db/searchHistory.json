@@ -1,0 +1,38 @@
+[
+	{
+		"name": "New York",
+		"id": "2240b181-e7e8-44f2-b348-fd5e3fb49156"
+	},
+	{
+		"name": "Chicago",
+		"id": "0fd06c21-3032-4995-abc4-328b77bcc972"
+	},
+	{
+		"name": "Boston",
+		"id": "9b1edab8-f90c-482f-82d0-2dfc0a3660a7"
+	},
+	{
+		"name": "Minneapolis",
+		"id": "94b190e4-4187-4a2c-b53d-36260a00bcb7"
+	},
+	{
+		"name": "Los Angeles",
+		"id": "e9212be2-0336-4045-8db7-e66ee847313e"
+	},
+	{
+		"name": "San Diego",
+		"id": "40b83759-db22-4d45-99cc-71c4f221fca7"
+	},
+	{
+		"name": "Austin",
+		"id": "ba1ca238-3a47-4038-b57a-656b46bbc0c1"
+	},
+	{
+		"name": "Santa Fe",
+		"id": "f2ba1987-e7bf-4d08-8752-13fc90d14c86"
+	},
+	{
+		"name": "London",
+		"id": "3bcdebbb-91f8-47b2-a8ff-3b7cb7ddafc9"
+	}
+]
